@@ -19,7 +19,7 @@ Other Pokémon Esperanto translation projects:
 - [**Pokémon Gold/Silver**][pokegold]
 - [**Pokémon Crystal**][pokecrystal]
 - [**Pokémon Ruby/Sapphire**][pokeruby]
-- [**Pokémon FireRed**][pokefirered]
+- [**Pokémon FireRed/LeafGreen**][pokefirered]
 - [**Pokémon Emerald**][pokeemerald]
 
 [original]: https://github.com/pret/pokered
