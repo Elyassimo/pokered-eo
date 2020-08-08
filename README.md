@@ -23,9 +23,9 @@ Other Pokémon Esperanto translation projects:
 - [**Pokémon Emerald**][pokeemerald]
 
 [original]: https://github.com/pret/pokered
-[pokeyellow]: https://github.com/waicalibre/pokeyellow
-[pokegold]: https://github.com/waicalibre/pokegold
-[pokecrystal]: https://github.com/waicalibre/pokecrystal
-[pokeruby]: https://github.com/waicalibre/pokeruby
-[pokefirered]: https://github.com/waicalibre/pokefirered
-[pokeemerald]: https://github.com/waicalibre/pokeemerald
+[pokeyellow]: https://github.com/waicalibre/pokeyellow-eo
+[pokegold]: https://github.com/waicalibre/pokegold-eo
+[pokecrystal]: https://github.com/waicalibre/pokecrystal-eo
+[pokeruby]: https://github.com/waicalibre/pokeruby-eo
+[pokefirered]: https://github.com/waicalibre/pokefirered-eo
+[pokeemerald]: https://github.com/waicalibre/pokeemerald-eo
