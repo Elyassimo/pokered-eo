@@ -1,6 +1,6 @@
 # Pokémon Red and Blue
 
-This is an Esperanto translation of Pokémon Red and Blue, forked from [pret's disassembly][original].
+This is an in-progress Esperanto translation of Pokémon Red and Blue, forked from [pret's disassembly][original].
 
 It builds the following ROMs:
 
