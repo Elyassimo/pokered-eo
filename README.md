@@ -17,7 +17,7 @@ The translation has not started yet. The tables below detail some of the things 
 
 | Mechanical tasks                                                                                          | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| Handling the Esperanto alphabet [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]    | Done, but the accented letters could look better |
+| Handling the Esperanto alphabet [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]    | Done, but the accented letters could look better in [font.png](gfx/font/font.png) |
 | Metric units                                                                                              | Almost done; metric height and weight data  needs to be put into [dex_entries.asm](data/pokemon/dex_entries.asm) |
 | Graphics (non-character-based text, e.g. [the title screen](gfx/title))                                   | None        |
 
