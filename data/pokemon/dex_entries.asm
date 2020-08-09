@@ -190,10 +190,19 @@ PokedexEntryPointers:
 	dw WeepinbellDexEntry
 	dw VictreebelDexEntry
 
+; TODO: swap imperial units with metric units
+
 ; string: species name
-; height in feet, inches
-; weight in pounds
+; height in hg [1kg = 10hg] (1 byte)
+; weight in cm (1 word = 2 bytes, little-endian)
 ; text entry
+
+; The US ROM stores two bytes for the height (feet and inches)
+; and one word for the weight (tenths of a pound).
+
+; The German ROM stores one byte for the height (cm)
+; and one word for the weight (hg), and it's probably what all
+; the non-English-language ROMs do.
 
 RhydonDexEntry:
 	db "DRILL@"
