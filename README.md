@@ -19,7 +19,7 @@ The translation has not started yet. The tables below detail all of the things t
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | Handling the Esperanto alphabet [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]    | Done, but the accented letters could look better in [font.png](gfx/font/font.png) |
 | Metric units [[1](engine/menus/pokedex.asm) [2](data/pokemon/dex_entries.asm)]                            | Done        |
-| Graphics (non-character-based text, e.g. [the title screen](gfx/title))                                   | None        |
+| Graphics (non-character-based text, e.g. [the title screen](gfx/title))                                   | Only the version names on the title screen |
 
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
