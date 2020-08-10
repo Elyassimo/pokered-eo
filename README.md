@@ -4,8 +4,8 @@ This is an in-progress Esperanto translation of Pokémon Red and Blue, forked fr
 
 It builds the following ROMs:
 
-- Pokemon Red (UE) (Eo).gb `sha256: TBA`
-- Pokemon Blue (UE) (Eo).gb `sha256: TBA`
+- Pokemon Ruga Versio (UE) (Eo).gb `sha256: TBA`
+- Pokemon Blua Versio (UE) (Eo).gb `sha256: TBA`
 - BLUEMONS.GB (debug build) `sha256: TBA`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
