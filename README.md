@@ -10,6 +10,8 @@ It builds the following ROMs:
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
+When the translation is finished, binary patches will be released for the English-language ROMs.
+
 **You can help! See the [Progress](#Progress) section for what still needs to be done.**
 
 ## Pokémon names
