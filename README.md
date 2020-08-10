@@ -13,13 +13,13 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 ## Progress
 
-The translation has not started yet. The tables below detail all of the things that need to be completed for this project to be successful.
-
 | Mechanical tasks                                                                                          | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| Handling the Esperanto alphabet [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]    | Done, but the accented letters could look better in [font.png](gfx/font/font.png) |
-| Metric units [[1](engine/menus/pokedex.asm) [2](data/pokemon/dex_entries.asm)]                            | Done        |
+| ~Handling the Esperanto alphabet~ [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]  | ~Done~, but the accented letters could look better in [font.png](gfx/font/font.png) |
+| ~Metric units~ [[1](engine/menus/pokedex.asm) [2](data/pokemon/dex_entries.asm)]                          | ~Done~        |
 | Graphics (non-character-based text, e.g. [the title screen](gfx/title))                                   | Only the version names on the title screen |
+
+**You can help! Everything that still needs to be translated into Esperanto is in these tables:**
 
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
@@ -44,10 +44,7 @@ The translation has not started yet. The tables below detail all of the things t
 | [text_6.asm](data/text/text_6.asm)                                                                        | 0 / 38      |
 | [text_7.asm](data/text/text_7.asm)                                                                        | 0 / 29      |
 
-<details>
-  <summary>Location-specific text</summary>
-  
-| File                                                                                                      | Progress    |
+| Location-specific text                                                                                    | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | [AgathasRoom.asm](text/AgathasRoom.asm)                                                                   | 0 / 4       |
 | [BikeShop.asm](text/BikeShop.asm)                                                                         | 0 / 11      |
@@ -259,12 +256,8 @@ The translation has not started yet. The tables below detail all of the things t
 | [ViridianPokecenter.asm](text/ViridianPokecenter.asm)                                                     | 0 / 2       |
 | [ViridianSchoolHouse.asm](text/ViridianSchoolHouse.asm)                                                   | 0 / 2       |
 | [WardensHouse.asm](text/WardensHouse.asm)                                                                 | 0 / 11      |
-</details>
 
-<details>
-  <summary>Small files</summary>
-
-| File                                                                                                      | Progress    |
+| Small files                                                                                               | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | [constants/item_constants.asm](constants/item_constants.asm)                                              | 0 / 4       |
 | [data/battle/stat_names.asm](data/battle/stat_names.asm)                                                  | 0 / 6       |
@@ -319,7 +312,6 @@ The translation has not started yet. The tables below detail all of the things t
 | [scripts/SaffronGym.asm](scripts/SaffronGym.asm)                                                          | 0 / 2       |
 | [scripts/VermilionGym.asm](scripts/VermilionGym.asm)                                                      | 0 / 2       |
 | [scripts/ViridianGym.asm](scripts/ViridianGym.asm)                                                        | 0 / 2       |
-</details>
 
 
 ## See also
