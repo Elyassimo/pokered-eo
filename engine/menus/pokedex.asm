@@ -513,7 +513,7 @@ ShowPokedexDataInternal:
 	ld a, c
 	and a
 	jp z, .waitForButtonPress ; if the pokemon has not been owned, don't print the height, weight, or description
-; print the height in m (note that height is stored in cm internally)
+; print the height in m (note that height is stored in dm internally [1m = 10dm])
 	inc de ; de = address of height
 	hlcoord 11, 6
 	lb bc, 1, 5
