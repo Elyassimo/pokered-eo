@@ -200,7 +200,7 @@ PokedexEntryPointers:
 ; The US ROM stores two bytes for the height (feet and inches)
 ; and one word for the weight (tenths of a pound).
 
-; The German ROM stores one byte for the height (cm)
+; The German ROM stores one byte for the height (dm)
 ; and one word for the weight (hg), and it's probably what all
 ; the non-English-language ROMs do.
 
