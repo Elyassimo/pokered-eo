@@ -522,7 +522,7 @@ ShowPokedexDataInternal:
 	hlcoord 14, 6
 	ld a, [de]
 	sbc 10
-	jr nc .heightFractional
+	jr nc, .heightFractional
 	ld [hl], "0" ; if the height is less than 10, put a 0 before the decimal point
 .heightFractional
 	inc hl
