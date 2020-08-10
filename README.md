@@ -13,12 +13,12 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 ## Progress
 
-The translation has not started yet. The tables below detail some of the things that need to be completed for this project to be successful.
+The translation has not started yet. The tables below detail all of the things that need to be completed for this project to be successful.
 
 | Mechanical tasks                                                                                          | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | Handling the Esperanto alphabet [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]    | Done, but the accented letters could look better in [font.png](gfx/font/font.png) |
-| Metric units [[1](engine/menus/pokedex.asm) [2](data/pokemon/dex_entries.asm)]                            | Done |
+| Metric units [[1](engine/menus/pokedex.asm) [2](data/pokemon/dex_entries.asm)]                            | Done        |
 | Graphics (non-character-based text, e.g. [the title screen](gfx/title))                                   | None        |
 
 | Subjective translation tasks                                                                              | Progress    |
