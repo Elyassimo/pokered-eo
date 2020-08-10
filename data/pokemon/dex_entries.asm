@@ -190,8 +190,6 @@ PokedexEntryPointers:
 	dw WeepinbellDexEntry
 	dw VictreebelDexEntry
 
-; TODO: swap imperial units with metric units
-
 ; string: species name
 ; height in dm [1m  = 10dm] (1 byte)
 ; weight in hg [1kg = 10hg] (1 word = 2 bytes, little-endian)
