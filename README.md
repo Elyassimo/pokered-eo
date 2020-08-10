@@ -10,6 +10,18 @@ It builds the following ROMs:
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
+**You can help! See the Progress section for what still needs to be done.**
+
+## Pokémon names
+
+There are at least six options for dealing with [Pokémon names](data/pokemon/names.asm):
+
+* Use the English names verbatim. The Italian and Spanish ROMs do this.
+* Esperantize the English names.
+* Esperantize the Japanese names: [list](https://eo.wikipedia.org/wiki/Listo_de_Pokemonoj)
+* Use these unofficial names: [list](https://docs.google.com/spreadsheets/d/1x4YKkc8TifWm4Tr9xMtumYaMIPs8T7EEvfHlkpzPa_Q/edit)
+* Use the Lusentoj names: [list](https://lusentoj.neocities.org/tutorials/pokered/poketrans/151names.html)
+* Use the Amika Babilfrenzo names: [list](https://eo.wikipedia.org/wiki/Uzanto:Amika_Babilfrenzo/Pokemon)
 
 ## Progress
 
@@ -18,16 +30,15 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 | Files                                                                                                     | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| ~Handling the Esperanto alphabet~ [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]  | ~Done~, but the accented letters could look better in [font.png](gfx/font/font.png) |
+| ~Handling the Esperanto alphabet~ [[1](charmap.asm) [2](gfx/font/font.png) [3](data/text/alphabets.asm)]  | ~Done~, but accented letters could look better in [font.png](gfx/font/font.png) |
 | ~Metric units~ [[1](engine/menus/pokedex.asm) [2](data/pokemon/dex_entries.asm)]                          | ~Done~        |
 | Graphics (non-character-based text, e.g. [the title screen](gfx/title))                                   | Only the version names on the title screen |
 </details
   
-**You can help! Everything that still needs to be translated into Esperanto is in these tables:**
+**Everything that still needs to be translated into Esperanto is in these tables:**
 
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| [Pokémon names](data/pokemon/names.asm)                                                                   | 0 / 151     |
 | [Pokémon types](data/types/names.asm)                                                                     | 0 / 16      |
 | [Pokédex descriptions](data/pokemon/dex_text.asm)                                                         | 0 / 151     |
 | [Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)                                     | 0 / 151     |
