@@ -35,7 +35,7 @@ There are at least six options for dealing with [Pokémon names](data/pokemon/na
 | Graphics (non-character-based text, e.g. [the title screen](gfx/title))                                   | Only the version names on the title screen |
 </details
   
-**Everything that still needs to be translated into Esperanto is in these tables:**
+**Everything else that still needs to be translated into Esperanto is in these tables:**
 
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
