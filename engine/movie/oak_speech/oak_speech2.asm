@@ -67,7 +67,7 @@ HisNameIsText:
 OakSpeechSlidePicLeft:
 	push de
 	hlcoord 0, 0
-	lb bc, 12, 11
+	lb bc, 12, 12
 	call ClearScreenArea ; clear the name list text box
 	ld c, 10
 	call DelayFrames
@@ -76,14 +76,14 @@ OakSpeechSlidePicLeft:
 	ld bc, NAME_LENGTH
 	call CopyData
 	call Delay3
-	hlcoord 12, 4
-	lb de, 6, 6 * SCREEN_WIDTH + 5
+	hlcoord 13, 4
+	lb de, 7, 6 * SCREEN_WIDTH + 5
 	ld a, $ff
 	jr OakSpeechSlidePicCommon
 
 OakSpeechSlidePicRight:
 	hlcoord 5, 4
-	lb de, 6, 6 * SCREEN_WIDTH + 5
+	lb de, 7, 6 * SCREEN_WIDTH + 5
 	xor a
 
 OakSpeechSlidePicCommon:
