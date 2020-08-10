@@ -10,7 +10,7 @@ It builds the following ROMs:
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
-**You can help! See the Progress section for what still needs to be done.**
+**You can help! See the [Progress](##Progress) section for what still needs to be done.**
 
 ## Pokémon names
 
