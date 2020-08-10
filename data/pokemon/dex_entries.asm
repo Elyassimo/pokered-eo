@@ -193,8 +193,8 @@ PokedexEntryPointers:
 ; TODO: swap imperial units with metric units
 
 ; string: species name
-; height in hg [1kg = 10hg] (1 byte)
-; weight in cm (1 word = 2 bytes, little-endian)
+; height in dm [1m  = 10dm] (1 byte)
+; weight in hg [1kg = 10hg] (1 word = 2 bytes, little-endian)
 ; text entry
 
 ; The US ROM stores two bytes for the height (feet and inches)
