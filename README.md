@@ -14,16 +14,38 @@ When the translation is finished, binary patches will be released for the Englis
 
 **You can help! See the [Progress](#Progress) section for what still needs to be done.**
 
-## Pokémon names
+
+## Translating names
+
+### Pokémon names
 
 There are at least six options for dealing with [Pokémon names](data/pokemon/names.asm):
 
 * Use the English names verbatim. The Italian and Spanish ROMs do this.
-* Esperantize the English names.
+* Esperantize the English names. Kaifi's Esperanto translation of FireRed does this.
 * Esperantize the Japanese names: [list](https://eo.wikipedia.org/wiki/Listo_de_Pokemonoj)
 * Use these unofficial names: [list](https://docs.google.com/spreadsheets/d/1x4YKkc8TifWm4Tr9xMtumYaMIPs8T7EEvfHlkpzPa_Q/edit)
 * Use the Lusentoj names: [list](https://lusentoj.neocities.org/tutorials/pokered/poketrans/151names.html)
 * Use the Amika Babilfrenzo names: [list](https://eo.wikipedia.org/wiki/Uzanto:Amika_Babilfrenzo/Pokemon)
+
+### Character names
+
+| Japanese | English   | Spanish   | French    | German    | Italian   | Esperanto (Kaifi) |
+| -------- | --------- | --------- | --------- | --------- | --------- | ----------------- |
+| Ōkido    | Oak       | Oak       | Chen      | Eich      | Oak       | Kverk             |
+| Takeshi  | Brock     | Brock     | Pierre    | Rocko     | Brock     | Petro             |
+| Kasumi   | Misty     | Misty     | Ondine    | Misty     | Misty     | Maraĵa            |
+| Matis    | Lt. Surge | Lt. Surge | Major Bob | Major Bob | Lt. Surge | L-to Serĝo        |
+| Erika    | Erika     | Erika     | Erika     | Erika     | Erika     | Erika             |
+| Kyō      | Koga      | Koga      | Koga      | Koga      | Koga      | Kogo              |
+| Natsume  | Sabrina   | Sabrina   | Morgane   | Sabrina   | Sabrina   | Sabrina           |
+| Katsura  | Blaine    | Blaine    | Auguste   | Pyro      | Blaine    | Ignaco            |
+| Sakaki   | Giovanni  | Giovanni  | Giovanni  | Giovanni  | Giovanni  | Ĝiovano           |
+| Kanna    | Lorelei   | Lorelei   | Olga      | Lorelei   | Lorelei   | Lorela            |
+| Siba     | Bruno     | Bruno     | Aldo      | Bruno     | Bruno     | Bruno             |
+| Kikuko   | Agatha    | Agatha    | Agatha    | Agathe    | Agatha    | Agata             |
+| Wataru   | Lance     | Lance     | Peter     | Siegried  | Lance     | Lanco             |
+
 
 ## Progress
 
