@@ -44,7 +44,7 @@ There are at least six options for dealing with [Pokémon names](data/pokemon/na
 | Kanna    | Lorelei   | Lorelei   | Olga      | Lorelei   | Lorelei   | Lorela            |
 | Siba     | Bruno     | Bruno     | Aldo      | Bruno     | Bruno     | Bruno             |
 | Kikuko   | Agatha    | Agatha    | Agatha    | Agathe    | Agatha    | Agata             |
-| Wataru   | Lance     | Lance     | Peter     | Siegried  | Lance     | Lanco             |
+| Wataru   | Lance     | Lance     | Peter     | Siegfried | Lance     | Lanco             |
 
 
 ## Progress
