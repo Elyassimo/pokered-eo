@@ -66,7 +66,7 @@ There are at least six options for dealing with [Pokémon names](data/pokemon/na
 | ~[Pokémon types](data/types/names.asm)~                                                                   | ~16 / 16~   |
 | [Pokédex descriptions](data/pokemon/dex_text.asm)                                                         | 0 / 151     |
 | [Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)                                     | 0 / 151     |
-| [Item names](data/items/names.asm)                                                                        | 27 / 97     |
+| [Item names](data/items/names.asm)                                                                        | 40 / 97     |
 | Move names [[1](data/moves/names.asm) [2](data/moves/field_move_names.asm)]                               | 0 / 172     |
 | [Place names](data/maps/names.asm)                                                                        | 0 / 53      |
 | Default player names [[1](data/player_names.asm) [2](data/player_names_list.asm)]                         | 0 / 6       |
