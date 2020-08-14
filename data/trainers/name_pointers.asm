@@ -48,9 +48,9 @@ TrainerNamePointers:
 	dw wTrainerName
 	dw wTrainerName
 
-.YoungsterName:     db "YOUNGSTER@"
-.BugCatcherName:    db "BUG CATCHER@"
-.LassName:          db "LASS@"
+.YoungsterName:     db "JUNULIĈO@"    ; "YOUNGSTER"
+.BugCatcherName:    db "CIMKAPTISTO@" ; "BUG CATCHER"
+.LassName:          db "JUNULINO@"    ; "LASS"
 .JrTrainerMName:    db "JR.TRAINER♂@"
 .JrTrainerFName:    db "JR.TRAINER♀@"
 .PokemaniacName:    db "POKéMANIAC@"
