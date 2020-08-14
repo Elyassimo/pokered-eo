@@ -30,21 +30,24 @@ There are at least six options for dealing with [Pokémon names](data/pokemon/na
 
 ### Character names
 
-| Japanese | English   | Spanish   | French    | German    | Italian   | Esperanto (Kaifi) |
-| -------- | --------- | --------- | --------- | --------- | --------- | ----------------- |
-| Ōkido    | Oak       | Oak       | Chen      | Eich      | Oak       | Kverk             |
-| Takeshi  | Brock     | Brock     | Pierre    | Rocko     | Brock     | Petro             |
-| Kasumi   | Misty     | Misty     | Ondine    | Misty     | Misty     | Maraĵa            |
-| Matis    | Lt. Surge | Lt. Surge | Major Bob | Major Bob | Lt. Surge | L-to Serĝo        |
-| Erika    | Erika     | Erika     | Erika     | Erika     | Erika     | Erika             |
-| Kyō      | Koga      | Koga      | Koga      | Koga      | Koga      | Kogo              |
-| Natsume  | Sabrina   | Sabrina   | Morgane   | Sabrina   | Sabrina   | Sabrina           |
-| Katsura  | Blaine    | Blaine    | Auguste   | Pyro      | Blaine    | Ignaco            |
-| Sakaki   | Giovanni  | Giovanni  | Giovanni  | Giovanni  | Giovanni  | Ĝiovano           |
-| Kanna    | Lorelei   | Lorelei   | Olga      | Lorelei   | Lorelei   | Lorela            |
-| Siba     | Bruno     | Bruno     | Aldo      | Bruno     | Bruno     | Bruno             |
-| Kikuko   | Agatha    | Agatha    | Agatha    | Agathe    | Agatha    | Agata             |
-| Wataru   | Lance     | Lance     | Peter     | Siegfried | Lance     | Lanco             |
+| Japanese   | English   | Spanish   | French    | German    | Italian   | Esperanto (Kaifi) |
+| ---------- | --------- | --------- | --------- | --------- | --------- | ----------------- |
+| Ōkido      | Oak       | Oak       | Chen      | Eich      | Oak       | Kverk             |
+| Nanami     | Daisy     | Dalia     | Nina      | Sarah     | Margi     | Dalia             |
+| Masaki     | Bill      | Bill      | Léo       | Bill      | Bill      | Vilĉjo            |
+| Elder Fuji | Mr. Fuji  | Mr. Fuji  | Mr. Fuji  | Mr. Fuji  | Mr. Fuji  | S-ro Fuĝio        |
+| Takeshi    | Brock     | Brock     | Pierre    | Rocko     | Brock     | Petro             |
+| Kasumi     | Misty     | Misty     | Ondine    | Misty     | Misty     | Maraĵa            |
+| Matis      | Lt. Surge | Lt. Surge | Major Bob | Major Bob | Lt. Surge | L-to Serĝo        |
+| Erika      | Erika     | Erika     | Erika     | Erika     | Erika     | Erika             |
+| Kyō        | Koga      | Koga      | Koga      | Koga      | Koga      | Kogo              |
+| Natsume    | Sabrina   | Sabrina   | Morgane   | Sabrina   | Sabrina   | Sabrina           |
+| Katsura    | Blaine    | Blaine    | Auguste   | Pyro      | Blaine    | Ignaco            |
+| Sakaki     | Giovanni  | Giovanni  | Giovanni  | Giovanni  | Giovanni  | Ĝiovano           |
+| Kanna      | Lorelei   | Lorelei   | Olga      | Lorelei   | Lorelei   | Lorela            |
+| Siba       | Bruno     | Bruno     | Aldo      | Bruno     | Bruno     | Bruno             |
+| Kikuko     | Agatha    | Agatha    | Agatha    | Agathe    | Agatha    | Agata             |
+| Wataru     | Lance     | Lance     | Peter     | Siegfried | Lance     | Lanco             |
 
 
 ## Progress
