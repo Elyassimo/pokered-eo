@@ -1,11 +1,11 @@
 _RhydonDexEntry::
-	text "Protected by an"
-	next "armor-like hide,"
-	next "it is capable of"
+	text "Ĝi estas protektita"
+	next "de kaŝi kirason,"
+	next "kaj povas travivi"
 
-	page "living in molten"
-	next "lava of 3,600"
-	next "degrees"
+	page "fandita lafo"
+	next "varme kiel 3.600"
+	next "gradoj"
 	dex
 
 _KangaskhanDexEntry::
