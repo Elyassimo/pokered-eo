@@ -72,7 +72,7 @@ There are at least six options for dealing with [Pokémon names](data/pokemon/na
 | [Item names](data/items/names.asm)                                                                        | 40 / 97     |
 | Move names [[1](data/moves/names.asm) ~[2](data/moves/field_move_names.asm)~]                             | 26 / 173    |
 | [Place names](data/maps/names.asm)                                                                        | 0 / 53      |
-| ~Default player names [[1](data/player_names.asm) [2](data/player_names_list.asm)]~                       | 0 / 6       |
+| ~Default player names [[1](data/player_names.asm) [2](data/player_names_list.asm)]~                       | ~6 / 6~     |
 
 | Large files                                                                                               | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
